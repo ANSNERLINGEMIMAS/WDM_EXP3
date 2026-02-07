@@ -117,14 +117,26 @@ def visualize_patterns_line(result, category):
 
 ## 1-line frequency:
 
+<img width="527" height="316" alt="Screenshot 2026-02-06 163113" src="https://github.com/user-attachments/assets/9fc6131b-de70-4176-bcb9-b35f68dfbb0c" />
+
 
 ## 2-line frequency:
+
+<img width="519" height="367" alt="Screenshot 2026-02-06 163120" src="https://github.com/user-attachments/assets/2385a489-1a93-4d7a-960d-b65972dd9673" />
+
 
 
 ## 3-line frequency:
 
+<img width="533" height="353" alt="Screenshot 2026-02-06 163126" src="https://github.com/user-attachments/assets/c20e3994-97c6-4fec-b6a9-df6204fce8e0" />
+
+
 
 ## 4-line frequency:
 
+<img width="522" height="355" alt="Screenshot 2026-02-06 163135" src="https://github.com/user-attachments/assets/16b61977-2c2e-4765-aad2-6c472c78e390" />
+
+
 
 ### Result:
+ Thus the Implementation of GSP Algorithm In Python is implemented successfully.
